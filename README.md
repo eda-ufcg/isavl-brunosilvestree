@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Bruno Rafael Medeiros Silvestre
+* Email (@ccc): bruno.rafael.medeiros.silvestre@ccc.ufcg.edu.br
+* Matrícula: 124110281
 
 # Roteiro: isAVL
 
