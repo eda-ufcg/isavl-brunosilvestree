@@ -8,7 +8,7 @@ public class BST {
     private int size;
 
     public boolean isAVL() {
-        return Math.abs(balance(this.root)) <= 1;
+        return Math.abs(balance(this.root)) <= 1 && Math.abs(balance(this.root.right)) <= 1 && Math.abs(balance(this.root.left)) <= 1;
     }
 
     /**
